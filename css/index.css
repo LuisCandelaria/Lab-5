@@ -1,0 +1,28 @@
+.results{
+    width: 100%;
+}
+
+.list > li{
+    display: inline-block;
+    width: 50%;
+}
+
+.item{
+    border: 1px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 15px;
+}
+
+.check{
+    text-decoration: line-through;
+}
+
+.delBtn{
+    background-color: red;
+    color: white;
+}
+
+.liBtn{
+    margin-left: 10px;
+}
