@@ -26,7 +26,7 @@
     has not been checked. If the user keeps clicking the “Check” button the same
     functionality should be replicated. The following image represents how the text is
     crossed when the user clicks in the “Check” button.
-    The “Delete” button will remove the current <li> element from the list when it is
+    The “Delete” button will remove the current li element from the list when it is
     clicked.
     <br>
     4) Feel free to add any CSS to this laboratory, be creative! You may also add classes or ids to
